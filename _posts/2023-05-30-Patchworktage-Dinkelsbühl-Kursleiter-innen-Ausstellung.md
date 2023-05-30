@@ -3,10 +3,6 @@ title: "Kursleiter/-innen Ausstellung"
 last_modified_at: 2023-05-30
 categories:
   - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 ![1](/assets/images/2023-05/9_evOrHRqEwODYC645B2.jpg)
