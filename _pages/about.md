@@ -5,10 +5,10 @@ title: "About"
 
 # Impressum
 
-Silvia Seibt
-Lilienweg 11
-89173 Lonsee
-Deutschland
+Silvia Seibt\
+Lilienweg 11\
+89173 Lonsee\
+Deutschland\
 
 E-Mail: patchwork@silviaseibt.de
 
