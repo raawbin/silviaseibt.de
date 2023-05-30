@@ -141,6 +141,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-archives
 
 
 # Archives
@@ -192,4 +193,4 @@ defaults:
       read_time: true
       comments: # true
       share: false
-      related: false
+      related: true
