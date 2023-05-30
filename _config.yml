@@ -133,6 +133,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -187,7 +188,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: false
